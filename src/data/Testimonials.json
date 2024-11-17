@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Mathew",
+    "profileImage": "image.png",
+    "rating": 5,
+    "testimonial": "Amazing quality and fast turnaround. Will definitely come back.",
+    "socialLinks": {
+      "heart": true,
+      "share": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Chris",
+    "profileImage": "image.png",
+    "rating": 4,
+    "testimonial": "Very professional and quick service. Highly recommend them!",
+    "socialLinks": {
+      "heart": true,
+      "share": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Logan",
+    "profileImage": "image.png",
+    "rating": 5,
+    "testimonial": "Amazing quality and fast turnaround. Will definitely come back.",
+    "socialLinks": {
+      "heart": true,
+      "share": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Jordan Clark",
+    "profileImage": "image.png",
+    "rating": 3,
+    "testimonial": "A truly professional team that understands deadlines. Our project was delivered flawlessly!",
+    "socialLinks": {
+      "heart": true,
+      "share": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Chris Evans",
+    "profileImage": "image.png",
+    "rating": 4,
+    "testimonial": "Friendly staff and high-quality scans. Recommended!",
+    "socialLinks": {
+      "heart": true,
+      "share": true
+    }
+  }
+]

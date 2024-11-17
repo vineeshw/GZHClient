@@ -1,0 +1,70 @@
+[
+    {
+      "id": 1,
+      "name": "Sreejith",
+      "role": "JAVA Developer",
+      "image": "sreejith.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jithin",
+      "role": "JAVA Developer",
+      "image": "jithin.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Gangen",
+      "role": "JAVA Developer",
+      "image": "ganganps.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Jhonson",
+      "role": "Machine Learning",
+      "image": "johnson.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Shafeen",
+      "role": "MEAN Developer",
+      "image": "shafeen.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sharath",
+      "role": "MEAN Developer",
+      "image": "pexels-photo.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Jesphin",
+      "role": "Flutter Developer",
+      "image": "jesphin.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Midhun",
+      "role": "Game Developer",
+      "image": "midhun.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Nikshal",
+      "role": "MERN Developer",
+      "image": "nikshal.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Gokul",
+      "role": "MERN Developer",
+      "image": "gokulsuresh.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Ajith",
+      "role": "Python Developer",
+      "image": "ajith_python.jpg"
+    }
+   
+  ]
+  

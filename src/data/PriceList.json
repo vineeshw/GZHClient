@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "name": "MERN",
+      "price": "£3000",
+      "period": "per month",
+      "features": [
+        "Unlimited components",
+        "Custom Tailwind styles",
+        "Unlimited Templates",
+        "Free premium dashboard"
+      ],
+      "buttonText": "Choose Plan"
+    },
+    {
+      "id": 2,
+      "name": "React",
+      "price": "£2500",
+      "period": "per month",
+      "features": [
+        "Responsive UI",
+        "Custom Hooks",
+        "React Router",
+        "Free support"
+      ],
+      "buttonText": "Choose Plan"
+    },
+    {
+      "id": 3,
+      "name": "Vue",
+      "price": "£2000",
+      "period": "per month",
+      "features": [
+        "Custom components",
+        "Vue CLI",
+        "State management",
+        "Cross-platform"
+      ],
+      "buttonText": "Choose Plan"
+    },
+    {
+      "id": 4,
+      "name": "Angular",
+      "price": "£3500",
+      "period": "per month",
+      "features": [
+        "Two-way data binding",
+        "Directives & services",
+        "Routing module",
+        "CLI integration"
+      ],
+      "buttonText": "Choose Plan"
+    },
+    {
+      "id": 5,
+      "name": "Node.js",
+      "price": "£2200",
+      "period": "per month",
+      "features": [
+        "Real-time capabilities",
+        "API creation",
+        "Server-side rendering",
+        "Full stack support"
+      ],
+      "buttonText": "Choose Plan"
+    },
+    {
+      "id": 6,
+      "name": "Full Stack",
+      "price": "£4000",
+      "period": "per month",
+      "features": [
+        "MERN stack",
+        "Database management",
+        "API integration",
+        "Deployment"
+      ],
+      "buttonText": "Choose Plan"
+    }
+  ]
+  

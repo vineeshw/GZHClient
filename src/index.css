@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* Floating Animation */
+@keyframes float {
+    0% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0px);
+    }
+  }
+  
+  /* Spiderweb Background */
+  .bg-spider-web {
+    background-image: url('/path/to/spiderweb.svg'); /* Provide the path to a spiderweb SVG image */
+    background-size: cover;
+  }
+  
+  /* Floating Logo Styling */
+  .floating-logo {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    animation: float 6s ease-in-out infinite, rotate 15s linear infinite;
+  }
+  
+  /* Additional Rotating Animation */
+  @keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+  
